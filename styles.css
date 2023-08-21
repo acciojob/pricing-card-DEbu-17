@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+ .card{
+	 background-color:#f1f1f1;
+	 height:600px;
+	 width:400px;
+	 display:flex;
+	 flex-direction:column;
+	 align-items:center;
+	 justify-content:space-evenly
+ }
+p{
+	align-text:center;
+}
+body{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+}
+button{
+	border:none;
+	background-color:#fe625a;
+	padding:10px;
+	border-radius:10px;
+	font-size:30px
+	
+}
